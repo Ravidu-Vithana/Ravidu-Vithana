@@ -29,7 +29,6 @@ I'm a passionate software developer with a deep interest in building **end-to-en
 
 - ⚡ **Tech Lover:** I’m always experimenting with new tech and gadgets.
 - 🖥️ **Programming Philosophy:** "Great code is like poetry."
-- 📚 **Current Read:** "Clean Code" by Robert C. Martin.
 - 🛠️ **Workspace Setup:** Dual monitors, mechanical keyboard, and a cup of tea ☕.
 
 ---
@@ -49,12 +48,7 @@ I'm always open to collaboration on interesting projects! Feel free to connect w
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravidu-Vithana&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravidu-Vithana&theme=dark&show_icons=true&count_private=true" alt="GitHub Streak" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravidu-Vithana&layout=compact&theme=dark" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravidu-Vithana&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" width="400"/>
 </p>
 
 ---
@@ -64,7 +58,3 @@ I'm always open to collaboration on interesting projects! Feel free to connect w
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – **Martin Fowler**
 
 ---
-
-<p align="center">
-  Made with ❤️ by Ravidu Vithana | © 2024
-</p>
