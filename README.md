@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Ravidu Vithana 👋</h1>
+<h3 align="center">Full Stack Software Developer | Java & PHP | Web, Desktop & Mobile Development | IoT Enthusiast</h3>
 
-<!--
-**Ravidu-Vithana/Ravidu-Vithana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate software developer with a deep interest in building **end-to-end solutions** across web, desktop, and mobile platforms. With hands-on experience in **Java**, **React**, **C#**, and **React Native**, I strive to create efficient, user-centric applications. Currently, I'm diving into **IoT projects** with **ESP32** and working on an exciting **drone project**.
+
+- 🚀 Currently working on **IoT & Drone Development**
+- 🌱 Learning more about **React** and **Laravel**
+- 💬 Ask me about **Java**, **React**, **C#**, **PHP**, and **Front-End/Back-End Development**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+</p>
+
+---
+
+### 🎉 Fun Facts
+
+- ⚡ **Tech Lover:** I’m always experimenting with new tech and gadgets.
+- 🖥️ **Programming Philosophy:** "Great code is like poetry."
+- 📚 **Current Read:** "Clean Code" by Robert C. Martin.
+- 🛠️ **Workspace Setup:** Dual monitors, mechanical keyboard, and a cup of tea ☕.
+
+---
+
+### 📫 Get in Touch
+
+I'm always open to collaboration on interesting projects! Feel free to connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ravidu-vithana-b61966251"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://stackoverflow.com/users/21184632/ravidu-vithana"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="mailto:raviduyashith123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravidu-Vithana&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravidu-Vithana&theme=dark" alt="GitHub Streak" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravidu-Vithana&layout=compact&theme=dark" alt="Top Languages" width="400"/>
+</p>
+
+---
+
+### 💡 Quote I Live By
+
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – **Martin Fowler**
+
+---
+
+<p align="center">
+  Made with ❤️ by Ravidu Vithana | © 2024
+</p>
