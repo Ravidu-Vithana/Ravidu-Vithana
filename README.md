@@ -50,7 +50,7 @@ I'm always open to collaboration on interesting projects! Feel free to connect w
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ravidu-Vithana&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravidu-Vithana&theme=dark" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravidu-Vithana&theme=dark&show_icons=true&count_private=true" alt="GitHub Streak" width="400"/>
 </p>
 
 <p align="center">
