@@ -7,8 +7,7 @@
 
 I'm a passionate software developer with a deep interest in building **end-to-end solutions** across web, desktop, and mobile platforms. With hands-on experience in **Java**, **React**, **C#**, and **React Native**, I strive to create efficient, user-centric applications. Currently, I'm diving into **IoT projects** with **ESP32** and working on an exciting **drone project**. [Go to my Portfolio](https://ravidu-vithana.github.io/)
 
-- 🚀 Currently working on **IoT & Drone Development**
-- 🌱 Learning more about **React** and **Laravel**
+- 🌱 Learning more about **React**, **Laravel** and **MERN**
 - 💬 Ask me about **Java**, **React**, **C#**, **PHP**, and **Front-End/Back-End Development**
 
 ---
