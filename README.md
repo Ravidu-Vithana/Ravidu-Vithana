@@ -52,9 +52,3 @@ I'm always open to collaboration on interesting projects! Feel free to connect w
 </p>
 
 ---
-
-### 💡 Quote I Live By
-
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – **Martin Fowler**
-
----
